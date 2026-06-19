@@ -1,5 +1,5 @@
-streamlit
+streamlit==1.58.0
 numpy
 requests
 python-dotenv
-faiss-cpu
+faiss-cpu==1.8.0
